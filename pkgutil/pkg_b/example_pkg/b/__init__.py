@@ -12,4 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+from example_pkg.a import name
+from example_pkg.b.bb import nested_name
+
 name = 'b'
